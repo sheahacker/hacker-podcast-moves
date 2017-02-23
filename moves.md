@@ -10,7 +10,17 @@ The podcast begins with a man talking, who is not the host. There is music playi
 
 Music plays again, indicating a transition. Phoebe starts to speak again, talking about a next door neighbor and lawyer who followed the case very carefully and came up with his own idea of what happened. She recites the theory that he gave to the police, saying that an owl was responsible for her death, by attacking her when she was outside and ripping hair and flesh off her scalp, causing her to panic and run inside where she slipped at the bottom of the stairs and knocked herself unconscious. She then plays a recording of the neighbor explaining how this was possible. While he is talking, she occasionally interjects to explain. Once he is done talking, music plays again, indicating another transition.
 
-We then find out that the blood analyst in the trial lied about his credentials, so the husband is now free from jail awaiting another trial. She transitions again with music and proceeds to talk about man and animal. She introduces her producer, and then plays a long recording of a story he is telling about man vs animal. Throughout his whole story, music occasionally plays whenever he pauses. Once he finishes his story, the music gets louder. Phoebe speaks, ending the podcast as the music ends. 
+We then find out that the blood analyst in the trial lied about his credentials, so the husband is now free from jail awaiting another trial. She transitions again with music and proceeds to talk about man and animal. She introduces her producer, and then plays a long recording of a story he is telling about man vs animal. Throughout his whole story, music occasionally plays whenever he pauses. Once he finishes his story, the music gets louder. Phoebe speaks, ending the podcast as the music ends.
+
+### Structure
+- Begins the podcast with a story that hooks the listener (similar to a hook in an essay or story).
+- Introduces herself as the host and the podcast before going into the subject.
+- Music is played for every transition onto a different topic.
+- Music is also used for dramatic effect. Eerie or slower music is played when more serious topics are talking about.
+- Uses clips of recorded stories or testimonies.
+- Uses recordings of other interviews to prove a point.
+- Interjects during recorded speech to explain something that might be unclear or follow up on it.
+- At the end, closes off by repeating her name and the name of producers and the podcast.
 
 
 ## Podcast two: Someone Knows Something
